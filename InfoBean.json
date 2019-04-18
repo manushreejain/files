@@ -1,0 +1,29 @@
+{
+      "payload_type" : null,
+      "command_info" : null,
+      "log_timestamp" : null,
+      "source_device_id" : null,
+      "sequence_number" : null,
+      "terminal_sequence_number" : null,
+      "output_res_file_name" : null,
+      "data" : null,
+      "step_id" : null,
+      "pipeline_id" : null,
+      "version_id" : null,
+      "entityNumber" : null,
+      "run_id" : null,
+      "evaluationError" : false,
+      "startTime" : null,
+      "endTime" : null,
+      "submissionTime" : 1535359905657,
+      "status" : null,
+      "type" : null,
+      "args" : {
+        "input_file" : [ ],
+        "output_file" : [ ],
+        "generated_output_file" : [ ],
+        "kpi" : { },
+        "params" : { },
+        "exit_code" : null
+      }
+    }
